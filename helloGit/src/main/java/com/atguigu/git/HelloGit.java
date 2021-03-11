@@ -17,5 +17,6 @@ public class HelloGit {
         System.out.println("克隆下来的项目");
         System.out.println("test other Account");
         System.out.println("test other Account2");
+        System.out.println("test other Account3");
     }
 }
