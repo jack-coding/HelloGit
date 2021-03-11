@@ -15,6 +15,6 @@ public class HelloGit {
         System.out.println("在线跟新");
         System.out.println("is Ok");
         System.out.println("克隆下来的项目");
-        System.out.println("合作者修改");
+        System.out.println("test other Account");
     }
 }
